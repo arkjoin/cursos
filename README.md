@@ -56,6 +56,28 @@ Inteligencia Artificial Fundamentos | Big Data & IA | 8 | Data Science Academy |
 Big Data Fundamentos | Big Data & IA | 8 | Data Science Academy | BD.IA - 03 | NA | [Link](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)
 
 
+**Cavaleiro Jedi / Sith**
+Curso | Trilha | Carga Horaria | Fonte | Código | Código Requisito | Link
+-------------------- | ---------------- | ---------------- | ---------------- | ---------------- | -------------------- |  ----------------
+Probabilidade e Estatística | Matemática e Estatistica | 8 | Veduca | Mat.Est - 02 | Mat.Est - 01 | [Link](https://play.veduca.org/curso-online-probabilidade-e-estatistica)
+Excel VBA | Programação | 40 | ITI | Pro - 04 | Log.Pro - 04 | [Link](http://ead-social.itinovacao.org.br/course/excel-2013-vba-modulo-i/)
+Python Básico | Programação | 8 | Solyd | Pro - 05 | Log.Pro - 04 | [Link](https://solyd.com.br/treinamentos/python-basico/)
+Administrando Bando de Dados | Banco de Dados | 15 | Fundação Bradesco | B.D - 03 | B.D - 02 | [Link](https://www.ev.org.br/cursos/administrando-bancos-de-dados)
+Intrdução à Programação Orientadda a Objetos (POO) | Programação | 10 | Fundação Bradesco | Pro - 10 | Pro - 06 & Pro - 08 | [Link](https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo)
+Linguagem de Modelagem Unificada (UML) | UML | 12 | Fundação Bradesco | UML - 01 | Pro - 10 | [Link](https://www.ev.org.br/cursos/linguagem-de-modelagem-unificada-uml)
+C# - Básico | Programação | 18 | Fundação Bradesco | Pro - 06 | Log.Pro - 04 | [Link](https://www.ev.org.br/cursos/linguagem-de-programacao-c-basico)
+C# - Avançado | Programação | 12 | Fundação Bradesco | Pro - 07 | Pro - 06 | [Link](https://www.ev.org.br/cursos/linguagem-de-programacao-c-avancado)
+Java - Básico | Programação | 24 | Fundação Bradesco | Pro - 08 | Log.Pro - 04 | [Link](https://www.ev.org.br/cursos/linguagem-de-programacao-java-basico)
+Java - Avançado | Programação | 16 | Fundação Bradesco | Pro - 09 | Pro - 08 | [Link](https://www.ev.org.br/cursos/linguagem-de-programacao-java-avancado)
+Modelagem de Dados | Banco de Dados | 12 | Fundação Bradesco | B.D - 04 | B.D - 02 | [Link](https://www.ev.org.br/cursos/modelagem-de-dados)
+Segurança em Tecnologia da Informação | Segurança | 12 | Fundação Bradesco | Seg - 01 | NA | [Link](https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao)
+Power BI | BI | 72 | Data Science Academy | BI - 01 | Off.E - 03 | [Link](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)
+Python Fundamentos para Análise de Dados | BI | 54 | Data Science Academy | BI - 02 | Log.Pro - 04 & B.D - 04 | [Link](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+
+
+
+
+
 
 
 
