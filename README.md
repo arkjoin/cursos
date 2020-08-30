@@ -1,14 +1,37 @@
 # cursos
-Lista de Cursos Organizados pela Ark Join
+Se você pudesse voltar no tempo por onde começaria a estudar ?
+
+Quando começou sua carreira foi fácil encontrar conhecimento ? Você tinha alguém que te desse o caminho das pedras ?
+
+Pois é, esse NÃO foi o meu caso. Sair do ensino médio para mim foi muito difícil, toda a indecisão sobre o que fazer, o que cursar e ainda por cima não ter conhecimento sobre nada. Quando eu sai do ensino médio eu mal sabia mexer num computador.
+
+E não quero que minha irmã passe por isso.
+
+Hoje encontramos na internet muito conteudo de qualidade, sendo assim consolidei alguns conteudos sobre TI numa especie de curso de cursos. TODOS os cursos são GRATUITOS só fiz a curadoria dos mesmos e os organizei numa ordem de execução.
+
+E assim surgiu o projeto Ark Join...
+Ark de Arca, local para armazenar algo.
+Join de juntar, de unir.
+
+Então o Ark Join é o local que minha irmã e diversas pessoas que estão migrando de área, (como minha esposa) possam ter um norte minimo do que estudar.
+
+
+O Ark Join é de vocês...
+
+Contato e Sugestões: **arkjoin.academy@gmail.com** 
 
 
 ![GitHub Logo](/imagens/Infografico.jpg)
 
-Descrição do curso
+**Niveis:**
+Os cursos estão dividios por níveis do mais básico, almentando gradativamente a complexidade
 
-
-Niveis
-
+Nível | Quantidade de Cursos | Quantidade de Horas
+-------------------- | ---------------- | ----------------
+Iniciado | 8 | 106
+Padawan | 9 | 157
+Cavaleiro Jedi / Sith | 13 | 207
+Mestre Jedi / Sith | 14 | 313
 
 **Iniciado**
 
@@ -56,7 +79,7 @@ Inteligencia Artificial Fundamentos | Big Data & IA | 8 | Data Science Academy |
 Big Data Fundamentos | Big Data & IA | 8 | Data Science Academy | BD.IA - 03 | NA | [Link](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)
 
 
-**Cavaleiro Jedi / Sith**
+**Mestre Jedi / Sith**
 Curso | Trilha | Carga Horaria | Fonte | Código | Código Requisito | Link
 -------------------- | ---------------- | ---------------- | ---------------- | ---------------- | -------------------- |  ----------------
 Probabilidade e Estatística | Matemática e Estatistica | 8 | Veduca | Mat.Est - 02 | Mat.Est - 01 | [Link](https://play.veduca.org/curso-online-probabilidade-e-estatistica)
@@ -76,9 +99,6 @@ Python Fundamentos para Análise de Dados | BI | 54 | Data Science Academy | BI 
 
 
 
-
-
-
-
+Obrigado
 
 Feito com :heart: por [Rafael Dourado](https://github.com/rafaelrd-dev) para sua esposa e irmã.
