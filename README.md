@@ -16,7 +16,7 @@ Ark de Arca, local para armazenar algo.
 
 Join de juntar, de unir.
 
-Então o Ark Join é o local que minha irmã e diversas pessoas que estão migrando de área, (como minha esposa) possam ter um norte minimo do que estudar.
+Então o Ark Join é o local que minha irmã que logo entrará no mercado de trabalho e diversas pessoas que estão migrando de área, (como minha esposa) possam ter um norte minimo do que estudar e de forma gratuita.
 
 
 O Ark Join é de vocês...
