@@ -1,13 +1,14 @@
 # cursos
-Se você pudesse voltar no tempo por onde começaria a estudar ?
+´´´
+Se você pudesse voltar no tempo, por onde começaria a estudar ?
 
-Quando começou sua carreira foi fácil encontrar conhecimento ? Você tinha alguém que te desse o caminho das pedras ?
+Quando começou sua carreira foi FÁCIL encontrar conhecimento ? Você tinha alguém que te desse o "caminho das pedras" ?
 
-Pois é, esse NÃO foi o meu caso. Sair do ensino médio para mim foi muito difícil, toda a indecisão sobre o que fazer, o que cursar e ainda por cima não ter conhecimento sobre nada. Quando eu sai do ensino médio eu mal sabia mexer num computador.
+Pois é, esse NÃO foi o meu caso. Sair do ensino médio foi complicado, toda a indecisão sobre o que fazer, o que cursar e ainda por cima não ter conhecimento sobre nada. Quando eu sai do ensino médio eu mal sabia mexer num computador.
 
 E não quero que minha irmã passe por isso.
 
-Hoje encontramos na internet muito conteudo de qualidade, sendo assim consolidei alguns conteudos sobre TI numa especie de curso de cursos. TODOS os cursos são GRATUITOS só fiz a curadoria dos mesmos e os organizei numa ordem de execução.
+Hoje encontramos na internet muito conteudo de qualidade, sendo assim consolidei alguns conteudos sobre TI numa especie de curso de cursos. TODOS os cursos são GRATUITOS, só fiz a curadoria dos mesmos e os organizei numa ordem de execução.
 
 E assim surgiu o projeto Ark Join...
 Ark de Arca, local para armazenar algo.
@@ -20,6 +21,7 @@ O Ark Join é de vocês...
 
 Contato e Sugestões: **arkjoin.academy@gmail.com** 
 
+```
 
 ![GitHub Logo](/imagens/Infografico.jpg)
 
