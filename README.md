@@ -6,12 +6,14 @@ Quando começou sua carreira foi FÁCIL encontrar conhecimento ? Você tinha alg
 
 Pois é, esse NÃO foi o meu caso. Sair do ensino médio foi complicado, toda a indecisão sobre o que fazer, o que cursar e ainda por cima não tinha conhecimento sobre nada. Quando eu sai do ensino médio eu mal sabia mexer num computador.
 
-E não quero que minha irmã passe por isso.
+E não desejo que minha irmã passe por isso.
 
-Hoje encontramos na internet muito conteudo de qualidade, sendo assim consolidei alguns conteudos sobre TI numa especie de curso de cursos. TODOS os cursos são GRATUITOS, só fiz a curadoria dos mesmos e os organizei numa ordem de execução.
+Hoje encontramos na internet muitos cursos de qualidade, sendo assim consolidei alguns conteudos sobre TI numa espécie de trilha. TODOS os cursos são GRATUITOS, só fiz a curadoria dos mesmos e os organizei numa ordem de execução.
 
 E assim surgiu o projeto Ark Join...
+
 Ark de Arca, local para armazenar algo.
+
 Join de juntar, de unir.
 
 Então o Ark Join é o local que minha irmã e diversas pessoas que estão migrando de área, (como minha esposa) possam ter um norte minimo do que estudar.
