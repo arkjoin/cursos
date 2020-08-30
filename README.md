@@ -1,5 +1,5 @@
 # cursos
-```
+
 Se você pudesse voltar no tempo, por onde começaria a estudar ?
 
 Quando começou sua carreira foi FÁCIL encontrar conhecimento ? Você tinha alguém que te desse o "caminho das pedras" ?
@@ -21,7 +21,6 @@ O Ark Join é de vocês...
 
 Contato e Sugestões: **arkjoin.academy@gmail.com** 
 
-```
 
 ![GitHub Logo](/imagens/Infografico.jpg)
 
