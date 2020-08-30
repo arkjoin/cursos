@@ -27,7 +27,7 @@ Contato e Sugestões: **arkjoin.academy@gmail.com**
 ![GitHub Logo](/imagens/Infografico.jpg)
 
 **Niveis:**
-Os cursos estão dividios por níveis do mais básico, almentando gradativamente a complexidade
+Os cursos estão dividios por níveis do mais básico, aumentando gradativamente a complexidade
 
 Nível | Quantidade de Cursos | Quantidade de Horas
 -------------------- | ---------------- | ----------------
