@@ -104,4 +104,4 @@ Python Fundamentos para Análise de Dados | BI | 54 | Data Science Academy | BI 
 
 Obrigado
 
-Feito com :heart: por [Rafael Dourado](https://github.com/rafaelrd-dev) para sua esposa e irmã.
+Feito com :heart: por [Rafael Dourado](https://github.com/666dourado) para sua esposa e irmã.
